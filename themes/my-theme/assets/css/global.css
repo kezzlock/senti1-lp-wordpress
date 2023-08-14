@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background: linear-gradient(180deg, #fff, #f3f5f9);
+}
+
+:root {
+  --font-opensans: 'Open Sans';
+  --font-open-sans: "Open Sans";
+
+  --font-size-sm: 14px;
+  --font-size-3xs: 10px;
+  --font-size-11xl: 30px;
+
+  --color-dodgerblue: #4d94ff;
+  --color-darkslategray-100: #374250;
+  --color-darkslategray-200: #20334f;
+}
